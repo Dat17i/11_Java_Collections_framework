@@ -12,4 +12,7 @@ Agenda dag 22 d. 2-11-2017
 * [Java List](http://docs.oracle.com/javase/8/docs/api/java/util/List.html)
 * [Java Iterator](http://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html)
 
+* [Arraylist](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+* [LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)
+
 
