@@ -23,4 +23,4 @@ Agenda
 
 ## Exercise
 
-* [Exercise: Generic ICrud Interface](https://docs.google.com/document/d/e/2PACX-1vQ5L06Vd_nGQMWn1bNWN0JrzaSv-1iIf3RM4QzTLkcMguel2cf8RQR00LejjwyLygkEd6rCOAI6qxbA/pub)
+* [Exercise: Generic ICrud Interface](https://docs.google.com/document/d/e/2PACX-1vSzGKkWNN8wCHSA1fvR0uAtLb7T5-rgRqgL_Zz6ptL_9Hra_6X_k5iehg40lyt77OLM35X6bQ1y2LGc/pub)
