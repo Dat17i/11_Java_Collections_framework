@@ -18,6 +18,6 @@ Agenda dag 22 d. 2-11-2017
 * [Why Use Generics?](https://docs.oracle.com/javase/tutorial/java/generics/why.html)
 * [Generic Types](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
 
-## Øvelse
+## Exercise
 
-* [Øvelse: Generisk ICrud Interface](https://docs.google.com/document/d/e/2PACX-1vQ5L06Vd_nGQMWn1bNWN0JrzaSv-1iIf3RM4QzTLkcMguel2cf8RQR00LejjwyLygkEd6rCOAI6qxbA/pub)
+* [Exercise: Generic ICrud Interface](https://docs.google.com/document/d/e/2PACX-1vQ5L06Vd_nGQMWn1bNWN0JrzaSv-1iIf3RM4QzTLkcMguel2cf8RQR00LejjwyLygkEd6rCOAI6qxbA/pub)
