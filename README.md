@@ -1,4 +1,4 @@
-# Day 13 Java Collections Framework
+# Day 13 Java Collections Framework & Generic Datatypes
 Agenda 
 
 # Java Collections Framework
@@ -12,6 +12,9 @@ Agenda
 ##### Lists
 * [Arraylist](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 * [LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)
+
+# Code examples
+* [LinkedList vs ArrayList ](https://github.com/Dat17i/13_LinkedList_vs_ArrayList)
 
 ##### Generics
 * [Generics](https://docs.oracle.com/javase/tutorial/java/generics/index.html)
